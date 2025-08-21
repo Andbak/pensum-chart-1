@@ -7,8 +7,7 @@ import altair as alt
 from datetime import datetime, date, timedelta
 
 # ------------------ KONFIG ------------------ #
-CSV_URL_DEFAULT = ("https://docs.google.com/spreadsheets/d/e/"
-                   "2PACX-1vSvskjfFaBMj251I0ejyarPl6tRVnRFUI2Xa9hCPf41pndkg2hcB63jJEw-eeur8VuXNZO9KddBIC18/pub?output=csv")
+CSV_URL_DEFAULT = ("https://docs.google.com/spreadsheets/d/e/2PACX-1vSvskjfFaBMj251I0ejyarPl6tRVnRFUI2Xa9hCPf41pndkg2hcB63jJEw-eeur8VuXNZO9KddBIC18/pub?output=csv")
 
 PENSUM_NAVY = "#0a2843"
 MUTED_BG = "#f1f4f6"
